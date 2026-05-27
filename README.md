@@ -11,7 +11,7 @@
 
   <p>Estudante de Desenvolvimento de Sistemas na <strong>ETEC (AMS)</strong>, com foco em lógica de programação, VisualG, Python e banco de dados.</p>
 
-  <p>Atualmente estudando e praticando <strong>MySQL, Banco de Dados, Python, HTML e CSS</strong>, aplicando os conceitos em exercícios e projetos para fortalecer a base da programação.</p>
+  <p>Atualmente estudando e praticando <strong>MySQL, Banco de Dados, Python, HTML, JavaScript e CSS</strong>, aplicando os conceitos em exercícios e projetos para fortalecer a base da programação.</p>
 
   <p>Sempre buscando evoluir, aprender boas práticas e construir soluções simples, funcionais e bem estruturadas.</p>
 
@@ -55,7 +55,12 @@
   title="Python"
   width="30px"
   />
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  alt="Simbolo JavaScript"
+  title="JavaScript"
+  width="30px"
+  />
           
           
-      
 </div>          
