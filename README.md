@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="498" height="277" alt="banner_brandao" src="https://github.com/user-attachments/assets/0323a543-2968-42a3-bee9-b7d2fa5e5671" />
+  <img width="740" height="316" alt="e8f61b64959302d3b04a4db7dbb53f3a" src="https://github.com/user-attachments/assets/70a083c1-7140-4ca0-86d0-d832943b9d48" />
 </div>
 
 
